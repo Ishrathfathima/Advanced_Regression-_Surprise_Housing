@@ -25,7 +25,7 @@ You are required to model the price of houses with the available independent var
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- <ul>
+<ul>
 <li><b>The variables significant in predicting the price of a house are: -</b></li>
 GrLivArea, OverallQual_9, OverallCond_9, OverallQual_8, Neighborhood_Crawfor, Functional_Typ, Exterior1st_BrkFace, SaleCondition_Alloca, CentralAir_Y, TotalBsmtSF, Neighborhood_Somerst, TotalBsmtSF and Condition1_Norm
 
